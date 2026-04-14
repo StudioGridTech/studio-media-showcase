@@ -1,14 +1,14 @@
 # Studio Media (Showcase)
 
-Studio Media is a custom WordPress plugin built for the Bricks Builder, designed to create interactive galleries, filterable layouts, and dynamic media sections — all without requiring custom JavaScript.
+Studio Media is a custom WordPress plugin for Bricks Builder, designed to create interactive galleries, filterable layouts, and dynamic media sections — all without requiring custom JavaScript.
 
 ---
 
 ## 🚀 Overview
 
-This project showcases the design and development of a modular media system that enables designers and developers to build visually rich, interactive layouts directly inside Bricks.
+This project highlights the design and development of a modular media system that enables designers and developers to build visually rich, interactive layouts directly within Bricks.
 
-The goal was to simplify complex media interactions into a flexible, reusable system that works seamlessly within the builder environment.
+The goal is to simplify complex media interactions into a flexible, reusable system that integrates seamlessly with the builder workflow.
 
 ---
 
@@ -19,7 +19,7 @@ The goal was to simplify complex media interactions into a flexible, reusable sy
 - SVG and Lottie animation support
 - Interactive UI components (sliders, hotspots, accordions)
 - Works with custom layouts using `data-category`
-- No JavaScript required for core functionality
+- No custom JavaScript required for core functionality
 
 ---
 
@@ -35,3 +35,4 @@ The goal was to simplify complex media interactions into a flexible, reusable sy
 
 ## 🖼️ Screenshots
 
+_Screenshots coming soon to demonstrate functionality and UI._
